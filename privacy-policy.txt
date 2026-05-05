@@ -1,0 +1,55 @@
+Privacy Policy
+Effective Date: January 15, 2025
+Last Updated: January 15, 2025
+
+Pak Elektron Limited (PEL) is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you use the PEL Khidmat Markaz mobile application. By using this app, you agree to the terms of this Privacy Policy.
+
+1. Information We Collect
+We collect the following personal and sensitive information to provide and improve our services:
+
+Personal Information: Name, address, email, phone number, ID number, and bank account details (bank name, account number, account title, account type).
+Location Data: The Khidmat Master’s location is tracked in the foreground for:
+Registration purposes.
+Continuous tracking (every 10 seconds) during active/pending jobs to provide customers with live location updates.
+2. How We Use Your Information
+The collected data is used solely for:
+
+Facilitating Khidmat Master registration and account setup.
+Managing and tracking active and completed jobs.
+Enabling customers to track the assigned Khidmat Master's location.
+Sending necessary notifications via Firebase.
+Your data is kept confidential and used only for purposes directly related to the functionality of the app.
+
+3. Third-Party Services
+The app integrates the following third-party services to enhance functionality:
+
+Google Maps API: For map views.
+Google Places API: For location tracking and location suggestions.
+Firebase: For sending push notifications.
+These services may collect certain data as outlined in their respective privacy policies.
+
+4. Data Sharing and Security
+Data Sharing: Your data is not shared with any third party outside Pak Elektron Limited.
+Security Measures:
+OTP-based authentication is used for secure account creation.
+While data is not currently encrypted at rest, we are continually working to enhance security measures.
+Data Retention: Your data is retained as long as your account is active. Changes to this policy may occur without prior notice.
+5. User Rights
+Access and Update: Users can contact PEL Customer Support within the app to request updates or corrections to their data.
+Account Deletion: Users can request account deletion through PEL Customer Support. Once the account is deleted, associated data will also be removed from our systems.
+6. Opt-Out Policy
+Certain features, such as location tracking, are essential for the app's functionality. Users cannot opt out of these features without compromising the app's usability.
+
+7. Compliance and Jurisdiction
+Jurisdiction: This app is primarily intended for users in Pakistan.
+Legal Compliance: The app complies with applicable data protection laws as of the effective date of this policy.
+8. Updates to This Privacy Policy
+Pak Elektron Limited reserves the right to update or change this Privacy Policy at any time. Any changes will be effective immediately upon posting in the app. Users are encouraged to review this policy periodically.
+
+9. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us:
+
+Email: itdev.pel@gmail.com
+Phone: +923334454525
+Support Portal: Accessible within the app.
+This Privacy Policy ensures compliance with Play Console requirements and helps protect user data while maintaining transparency.
